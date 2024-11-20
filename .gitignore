@@ -42,8 +42,8 @@ ENV/
 env/
 
 # Project specific
-word_bg.png
-word.ico
+# word_bg.png
+# word.ico
 *.log
 temp/
 *.bak
